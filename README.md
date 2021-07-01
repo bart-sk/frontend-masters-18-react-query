@@ -20,6 +20,7 @@ V žiadnom prípade nejde o hotovú aplikáciu na čítanie emalov a je tam dos�
  Stiahneme projekt z GIT:
   
 ```
+git clone https://github.com/bart-sk/frontend-masters-18-react-query.git
 ```
 Na základe súboru `.env.sample` vytvoríme súbor s názvom `.env`, kde nastavíme potrebné *"env"* premenné pre beh aplikácie. V tomto prípade stačí nastaviť *Client ID*, ktoré sme si vygenerovali v "Google Cloud Platgorm" (viď postup nižšie)
 
